@@ -89,7 +89,8 @@ npm run dev
 
 | Role    | Email                  | Password  |
 | ------- | ---------------------- | --------- |
-| Admin | admin@cliniq.com | (contact me for access) |
+| Admin   | admin@cliniq.com       | (contact me for access) |
+| Doctor  | doctor@cliniq.com      | (contact me for access) |
 | Patient | (Register new account) | —         |
 
 ## 📝 Notes
@@ -100,4 +101,4 @@ npm run dev
 
 ## 👨‍💻 Developer
 
-Built by **Zaky** as a portfolio project showcasing full-stack development skills.
+Built by **Mohamed Elsayed** as a portfolio project showcasing full-stack development skills.
