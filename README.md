@@ -89,7 +89,7 @@ npm run dev
 
 | Role    | Email                  | Password  |
 | ------- | ---------------------- | --------- |
-| Admin   | admin@cliniq.com       | Admin1234 |
+| Admin | admin@cliniq.com | (contact me for access) |
 | Patient | (Register new account) | —         |
 
 ## 📝 Notes
